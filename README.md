@@ -2,7 +2,10 @@
 # React-Simplified Firebase Auth
 
 This repo gives you Firebase Auth experience in React JS
+
+
 [![React](https://img.shields.io/badge/Platform-React%20JS-blue.svg)](https://reactjs.org/) [![Firebase](https://img.shields.io/badge/Firebase-Auth-blue.svg)](https://firebase.google.com/)
+
 ## Demo Link
 
 (https://statuesque-bike.surge.sh/)
