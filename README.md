@@ -1,12 +1,13 @@
-# React-Simplified Firebase Auth :
+[![Screenshot](https://tridentnets.com/banner.png)](https://tridentnets.com/)
+# React-Simplified Firebase Auth
 
 This repo gives you Firebase Auth experience in React JS
-
-## Demo Link :
+[![React](https://img.shields.io/badge/Platform-React%20JS-blue.svg)](https://reactjs.org/) [![Firebase](https://img.shields.io/badge/Firebase-Auth-blue.svg)](https://firebase.google.com/)
+## Demo Link
 
 (https://statuesque-bike.surge.sh/)
 
-## 📸 Screenshot :
+## 📸 Screenshot
 
 ![Screenshot](https://user-images.githubusercontent.com/30695617/70412507-f4959f00-1a7a-11ea-9231-b6cb3488f481.png)
 
@@ -21,7 +22,6 @@ Install the npm package in your React app:
 You also need the firebase package installed which is a peer dependency:
 
 ### npm install --save firebase
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -100,3 +100,20 @@ const config = {
   authDomain: "",
   // ...
 };
+## License
+
+    Copyright 2019, Trident Solutions
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+### ⭐ Show some ❤️ and star if you like what you see ⭐
